@@ -1,4 +1,4 @@
-#Finder My Food Truck
+# Find My Food Truck
 Shows currently available food trucks.
 
 # To run as a command line application
